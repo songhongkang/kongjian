@@ -1,6 +1,6 @@
 # 如何使用CustomerPickerViewDemo
 
-![图片](https://dn-coding-net-production-pp.qbox.me/f6bc750d-a86b-4036-9d86-b7e28f427dcb.gif) 
+![图片](https://github.com/songhongkang/kongjian/blob/master/%E6%B5%8B%E8%AF%95.gif) 
 
 # 如何使用导入头文件
 #import "PickerViewSelectDate.h"
